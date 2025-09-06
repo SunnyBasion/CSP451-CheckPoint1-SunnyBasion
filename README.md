@@ -10,11 +10,26 @@ mkdir csp451-checkpoint1
 cd csp451-checkpoint1
 git init -b main 
  ```
-2. Create the initial files via touch
+2. Create the required files via touch
 List of intial required files; README.md .gitignore index.html style.css script.js 
  ```bash
 touch README.md .gitignore index.html style.css script.js
  ```
+3. Add each required file to the local repository and commit (minimum 5 total commits)
+    ```bash
+    git add README.md
+    git commit -m "docs: adding assignmnet brief reference"
+    git add .gitignore
+    git commit -m "chore: file specifiying what files or directories git should ignore in the repository"
+    git add index.html
+    git commit -m "style: basic html page"
+    git add style.css
+    git commit -m "refactor: code changes that does not fix a bug or add a new feature"
+    git add script.js
+    git commit -m "feat: a new feature that is to be added"
+     ```
+    
+    
 
 
 
