@@ -58,8 +58,11 @@ touch README.md .gitignore index.html style.css script.js
    git checkout -b feature/add-about-page #option -b creates a new branch and swithces to it 
    ```
 3. Add about.html file and commit changes (minimum 3 total commits) 
-   - Create the file via touch ```bash
-    touch about.html```
+   - Create the file via touch
+     ```bash
+     touch about.html
+     ```
+
 
 
 
