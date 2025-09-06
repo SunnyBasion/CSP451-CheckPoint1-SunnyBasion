@@ -3,7 +3,6 @@
 ## Part 2: Git Repository Setup 
 The steps listed below should help one create a local repository and push it's contents to a remote repository via Git.
 
-### Commands Executed
 1. Create a local directory and initalize it as a local repository with the branch name "main"
  ```bash
 mkdir csp451-checkpoint1
@@ -13,9 +12,11 @@ git init -b main
 2. Create the required files via touch
 
 List of intial required files; README.md .gitignore index.html style.css script.js 
+
  ```bash
 touch README.md .gitignore index.html style.css script.js
  ```
+
 3. Add each required file to the local repository and commit (minimum 5 total commits)
     ```bash
     git add README.md
@@ -44,6 +45,7 @@ touch README.md .gitignore index.html style.css script.js
    git remote add origin git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    git push -u origin main
    ```
+
 
 
 
