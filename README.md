@@ -11,6 +11,7 @@ cd csp451-checkpoint1
 git init -b main 
  ```
 2. Create the required files via touch
+
 List of intial required files; README.md .gitignore index.html style.css script.js 
  ```bash
 touch README.md .gitignore index.html style.css script.js
@@ -43,6 +44,7 @@ touch README.md .gitignore index.html style.css script.js
    git remote add origin git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    git push -u origin main
    ```
+
 
 
 
