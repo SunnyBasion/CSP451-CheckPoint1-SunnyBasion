@@ -30,6 +30,7 @@ touch README.md .gitignore index.html style.css script.js
     git add script.js
     git commit -m "feat: a new feature that is to be added"
      ```
+    
 ## Part 3: GitHub Repository (Remote Repository)
 1. Creating a remote repository via GUI
    - Left click the "Create New" icon on the GitHub dashboard and select "New repository"
@@ -45,6 +46,18 @@ touch README.md .gitignore index.html style.css script.js
    git remote add origin git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    git push -u origin main
    ```
+   
+## Part 4: Branching Exercise 
+1. Start on your main branch
+   ```bash
+   git checkout main
+   git pull origin main   # make sure your main is up to date
+   ```
+2. Create the feature branch
+   ```bash
+   git checkout -b feature/add-about-page #option -b creates a new branch and swithces to it 
+   ```
+3. Add about.html file and commit changes (minimum 3 total commits) 
 
 
 
