@@ -62,7 +62,18 @@ touch README.md .gitignore index.html style.css script.js
      ```bash
      touch about.html
      ```
+   - Add the about.html file to the local repository
+     ```bash
+     git add about.html
+     ``
    - Add the following content (personal info), **refer to captured outputs heading below**
+   - Listed below are the commit changes made
+     ```bash
+     git 
+     git commit -m "feat: add about.html with personal information"
+     git commit -m "feat: removing the interests line of code"
+     git commit -m "feat: re-adding updated interests"
+     ``
 
 
 
