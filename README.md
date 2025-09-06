@@ -4,17 +4,18 @@
 The steps listed below should help one create a local repository and push it's contents to a remote repository via Git.
 
 ### Commands Executed
-1.Create project and initalize repository on main 
+1. Create a local directory and initalize it as a local repository with the branch name "main"
  ```bash
 mkdir csp451-checkpoint1
 cd csp451-checkpoint1
 git init -b main 
  ```
-2.Create the initial files via touch
+2. Create the initial files via touch
 List of intial required files; README.md .gitignore index.html style.css script.js 
  ```bash
 touch README.md .gitignore index.html style.css script.js
  ```
+
 
 
 
