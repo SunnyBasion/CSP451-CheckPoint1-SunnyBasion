@@ -28,12 +28,20 @@ touch README.md .gitignore index.html style.css script.js
     git add script.js
     git commit -m "feat: a new feature that is to be added"
      ```
-## Part 3: GitHub Repository 
+## Part 3: GitHub Repository (Remote Repository)
 1. Creating a remote repository via GUI
    - Left click the "Create New" icon on the GitHub dashboard and select "New repository"
    - Enter the repository name "CSP451-CheckPoint1-YourName", for example CSP451-CheckPoint1-SunnyBasion
    - Ensure the visisbility configuration is set  to "public" and leep the other configuration settings set to default
    - Click create repository at the bottom
+
+2. Connecting to the remote repository and pushing the changes 
+### commands executed 
+```bash
+git remote add origin git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
+git push -u origin main
+```
+
 
 
 
