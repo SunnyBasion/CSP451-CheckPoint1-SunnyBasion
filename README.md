@@ -53,7 +53,7 @@ touch README.md .gitignore index.html style.css script.js
    git checkout main
    git pull origin main   # make sure your main is up to date
    ```
-2. Create the feature branch
+2. Create and switch to the feature branch
    ```bash
    git checkout -b feature/add-about-page #option -b creates a new branch and swithces to it 
    ```
@@ -74,6 +74,7 @@ touch README.md .gitignore index.html style.css script.js
      git commit -m "feat: removing the interests line of code"
      git commit -m "feat: re-adding updated interests"
      ``
+
 
 
 
