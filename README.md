@@ -36,10 +36,11 @@ touch README.md .gitignore index.html style.css script.js
    - Click create repository at the bottom
 
 2. Connecting to the remote repository and pushing the changes 
-```bash
-git remote add origin git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
-git push -u origin main
-```
+   ```bash
+   git remote add origin git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
+   git push -u origin main
+   ```
+
 
 
 
