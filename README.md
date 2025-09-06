@@ -85,7 +85,15 @@ touch README.md .gitignore index.html style.css script.js
       - Title: feature/add-about-page
       - Description: breif explanation of newly created branch
       - Assigning an instructor as a reviewer
- 6. 
+   - It should redirect one to the newly created pull request webpage with the option to **merge the pull request**
+   - After the merge has been successfuly completed, switch over to the main branch and delete the feature branch locally and remotely
+   ```bash 
+   git checkout main
+   git pull origin main
+   git branch -d feature/add-about-page      # delete local branch
+   git push origin --delete feature/add-about-page  # delete remote branch
+   ```
+
 
 
 
