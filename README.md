@@ -35,7 +35,7 @@ touch README.md .gitignore index.html style.css script.js
 1. Creating a remote repository via GUI
    - Left click the "Create New" icon on the GitHub dashboard and select "New repository"
    - Enter the repository name "CSP451-CheckPoint1-YourName", for example CSP451-CheckPoint1-SunnyBasion
-   - Ensure the visisbility configuration is set  to "public" and leep the other configuration settings set to default
+   - Ensure the visibility configuration is set  to "public" and keep the other configuration settings set to default
    - Click create repository at the bottom
 
 2. Connecting to the remote repository and pushing the changes
@@ -55,7 +55,7 @@ touch README.md .gitignore index.html style.css script.js
    ```
 2. Create and switch to the feature branch
    ```bash
-   git checkout -b feature/add-about-page #option -b creates a new branch and swithces to it 
+   git checkout -b feature/add-about-page #option -b creates a new branch and switches to it 
    ```
 3. Add about.html file and commit changes (minimum 3 total commits) 
    - Create the file via touch
@@ -83,16 +83,17 @@ touch README.md .gitignore index.html style.css script.js
    - Click create pull request
    - Fill in the following information:
       - Title: feature/add-about-page
-      - Description: breif explanation of newly created branch
+      - Description: brief explanation of newly created branch
       - Assigning an instructor as a reviewer
    - It should redirect one to the newly created pull request webpage with the option to **merge the pull request**
-   - After the merge has been successfuly completed, switch over to the main branch and delete the feature branch locally and remotely
+   - After the merge has been successfully completed, switch over to the main branch and delete the feature branch locally and remotely
    ```bash 
    git checkout main
    git pull origin main
    git branch -d feature/add-about-page      # delete local branch
    git push origin --delete feature/add-about-page  # delete remote branch
    ```
+
 
 
 
