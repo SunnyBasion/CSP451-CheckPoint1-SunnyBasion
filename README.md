@@ -38,11 +38,12 @@ touch README.md .gitignore index.html style.css script.js
 2. Connecting to the remote repository and pushing the changes
    - One must associate their SSH public key  with their Github account in order to connect to the remote repository from the local machine.
    - To associate a SSH public key navigate to settings -> SSH and GPG Keys -> SSH Keys --> and select New SSH Key
-   - The command listed below with my specific GitHub repository will allow one to connect to the remote repository and push changes from the local repository. 
+   - The command listed below with my specific GitHub username repository will allow one to connect to the remote repository and push changes from the local repository. 
    ```bash
    git remote add origin git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    git push -u origin main
    ```
+
 
 
 
