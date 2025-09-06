@@ -62,6 +62,7 @@ touch README.md .gitignore index.html style.css script.js
      ```bash
      touch about.html
      ```
+   - Add the following content (personal info), **refer to captured outputs heading below**
 
 
 
