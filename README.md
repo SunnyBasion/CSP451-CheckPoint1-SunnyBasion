@@ -67,13 +67,25 @@ touch README.md .gitignore index.html style.css script.js
    git add about.html
    ```
    - Add the following content (personal info), **refer to captured outputs heading below**
-   - Listed below are the commit changes made
+   - Listed below are the commit changes made:
    ```bash 
    git commit -m "feat: add about.html with personal information"
    git commit -m "feat: removing the interests line of code"
    git commit -m "feat: re-adding updated interests"
    ```
-
+4. Push the feature branch to remote repository
+   ```bash 
+   git push -u origin feature/add-about-page
+   ```
+5. Creating a pull request (PR)
+   - Go to your repository on GitHub
+   - Select your feature/add-about-page branch from the branch drop down menu
+   - Click create pull request
+   - Fill in the following information:
+      - Title: feature/add-about-page
+      - Description: breif explanation of newly created branch
+      - Assigning an instructor as a reviewer
+ 6. 
 
 
 
