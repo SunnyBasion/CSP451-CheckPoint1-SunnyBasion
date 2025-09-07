@@ -154,6 +154,19 @@ License
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
 
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.bak
 
 
 
