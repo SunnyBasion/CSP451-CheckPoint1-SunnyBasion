@@ -1,6 +1,7 @@
 ## Part 1: Version Control Understanding (~500 Words) 
 
 How version control helps track changes in software:
+
 Version control systems “give software engineering teams complete visibility to the code history and a single source of documentation for all files, folders, and messages” (Github,2025). Git is an example of a version control tool which provides the history of changes that occur over time to files and folders, helping software developers manage and track their work more effectively. Developers can add, commit and push their files with clear commit types and messages to a centralized repository used for collaborative projects, helping them to keep a complete code history by tracking changes. It also provides the ability to roll back to a previous commit when running into a bug/problem. 
 
 Three specific collaboration benefits with examples:
@@ -113,6 +114,7 @@ touch README.md .gitignore index.html style.css script.js
 ##Captured Outputs 
 
 ###Environment 
+
 
 
 
