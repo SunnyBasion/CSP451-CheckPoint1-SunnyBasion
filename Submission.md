@@ -261,10 +261,9 @@ about.html
 </body>
 </html>
 ```
-<img width="624" height="285" alt="Picture1" src="https://github.com/user-attachments/assets/0ad0cc8a-f461-458e-9a84-3bf6f36f91dc" />
-
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
