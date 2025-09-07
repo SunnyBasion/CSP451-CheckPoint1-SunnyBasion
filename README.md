@@ -119,8 +119,10 @@ touch README.md .gitignore index.html style.css script.js
    git push origin --delete feature/add-about-page  # delete remote branch
    ```
 ##Captured Outputs 
+<img width="1919" height="1079" alt="Part 2 Step 1 Creating and initalizing the local git repository " src="https://github.com/user-attachments/assets/9c5bae75-5f96-40dc-b217-d37145d73244" />
 
 ###Environment 
+
 
 
 
