@@ -1,3 +1,5 @@
+## Week 1 - Introduction to GitHub and Version Control By Sunny Basion 
+Repository: https://github.com/SunnyBasion/CSP451-CheckPoint1-SunnyBasion
 ## Part 1: Version Control Understanding (~500 Words) 
 
 How version control helps track changes in software:
@@ -264,6 +266,7 @@ about.html
 ```
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
