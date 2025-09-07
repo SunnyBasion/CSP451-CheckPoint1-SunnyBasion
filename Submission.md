@@ -167,6 +167,23 @@ Thumbs.db
 *.bak
 ```
 
+index.html 
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSPS41 CheckPoint 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to CSPS41 CheckPoint 1 – now with About!</h1>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+```
 
 
 
@@ -175,6 +192,7 @@ Thumbs.db
      
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
