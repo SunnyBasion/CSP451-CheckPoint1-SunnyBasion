@@ -18,4 +18,4 @@ This repository contains the files for CSP451 Checkpoint 1. It demonstrates basi
    cd CSP451-Checkpoint1-SunnyBasion
 ****
 ## License
-This project is for education purposes. 
+This project is for educational purposes. 
