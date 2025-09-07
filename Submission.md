@@ -156,17 +156,21 @@ License
 
 .gitignore
 
-# OS files
+\#OS files
+
 .DS_Store
 Thumbs.db
 
-# Editor/IDE files
+\#Editor/IDE files
+
 .vscode/
 .idea/
 
-# Backup files
+\#Backup files
+
 *~
 *.bak
+
 
 
 
