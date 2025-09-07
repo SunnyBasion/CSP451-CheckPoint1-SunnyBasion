@@ -17,5 +17,12 @@ This repository contains the files for CSP451 Checkpoint 1. It demonstrates basi
    git clone git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    cd CSP451-Checkpoint1-SunnyBasion
 ****
+## Usage 
+One can use the index.html for their apache/httpd webserver 
+Open about.html to view the about page with personal information 
+
+## Contributing 
+Use feature branches and pull requests 
+
 ## License
 This project is for educational purposes. 
