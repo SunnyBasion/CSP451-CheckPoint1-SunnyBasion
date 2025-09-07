@@ -150,26 +150,33 @@ Contributing
      
 License
    - This project is for educational purposes.
-     
-## Reference:
-1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
 
 .gitignore
-
-\#OS files
-
+```
+#OS files
 .DS_Store
 Thumbs.db
 
-\#Editor/IDE files
+#Editor/IDE files
 
 .vscode/
 .idea/
 
-\#Backup files
-
+#Backup files
 *~
 *.bak
+```
+
+
+
+
+
+
+     
+## Reference:
+1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
+
 
 
 
