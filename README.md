@@ -18,9 +18,11 @@ Developers can create separate branches for testing new features, experiments, o
 Git has the ability to highlight conflicts that are caused from two developers editing the same file and same lines/part of the file. For example, if two developers edit the same file and lines, Git shows the conflicting lines which can then have to be resolved before merging.
 
 Git’s Backup and Recovery Mechanisms: 
+
 Git is a distributed version control system meaning each developer has a copy of the repository on their local machine. If the remote repository is inaccessible, the local repository can be used to restore the remote repository. One can roll back to earlier commits using commands such as git reset and git checkout. 
 
 Difference between Git and GitHub:
+
 Git is a version control system that resides and runs locally on a device, it is responsible for managing changes, tracking history, creating and initializing branches, and also allowing merging. Whereas GitHub is a cloud-based platform for hosting Git repositories, it enables collaboration by providing a centralized repository. It also offers features such as pull requests and merging. 
 
 ## Part 2: Git Repository Setup 
@@ -119,6 +121,7 @@ touch README.md .gitignore index.html style.css script.js
 ##Captured Outputs 
 
 ###Environment 
+
 
 
 
