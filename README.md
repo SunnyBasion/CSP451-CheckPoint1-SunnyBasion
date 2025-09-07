@@ -6,10 +6,13 @@ Version control systems “give software engineering teams complete visibility t
 
 Three specific collaboration benefits with examples:
 1.	Ability to work together at the same time
+   
 Multiple developers can work on the project simultaneously without overwriting each other’s work. With a centralized remote repository, each developer can work on the same branch or different branch and merge them safely when needed. If both developers are working on the same file and branch but in different sections of it, Git has the ability to merge the changes to a singular file because the changes don’t overlap (in different parts of the file).
 3.	Branching for feature Isolation / Trying new things
+
 Developers can create separate branches for testing new features, experiments, or bug fixes without affecting the main project. For example, a developer creates a new feature and implements it within a secondary branch which contains the same files as the main branch, reducing the potential risk of breaking existing functionality. 
 5.	Conflict resolution
+
 Git has the ability to highlight conflicts that are caused from two developers editing the same file and same lines/part of the file. For example, if two developers edit the same file and lines, Git shows the conflicting lines which can then have to be resolved before merging.
 
 Git’s Backup and Recovery Mechanisms: 
@@ -114,6 +117,7 @@ touch README.md .gitignore index.html style.css script.js
 ##Captured Outputs 
 
 ###Environment 
+
 
 
 
