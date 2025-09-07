@@ -1,4 +1,20 @@
 ## Part 1: Version Control Understanding (~500 Words) 
+How version control helps track changes in software:
+Version control systems “give software engineering teams complete visibility to the code history and a single source of documentation for all files, folders, and messages” (Github,2025). Git is an example of a version control tool which provides the history of changes that occur over time to files and folders, helping software developers manage and track their work more effectively. Developers can add, commit and push their files with clear commit types and messages to a centralized repository used for collaborative projects, helping them to keep a complete code history by tracking changes. It also provides the ability to roll back to a previous commit when running into a bug/problem. 
+
+Three specific collaboration benefits with examples:
+1.	Ability to work together at the same time
+Multiple developers can work on the project simultaneously without overwriting each other’s work. With a centralized remote repository, each developer can work on the same branch or different branch and merge them safely when needed. If both developers are working on the same file and branch but in different sections of it, Git has the ability to merge the changes to a singular file because the changes don’t overlap (in different parts of the file).
+3.	Branching for feature Isolation / Trying new things
+Developers can create separate branches for testing new features, experiments, or bug fixes without affecting the main project. For example, a developer creates a new feature and implements it within a secondary branch which contains the same files as the main branch, reducing the potential risk of breaking existing functionality. 
+5.	Conflict resolution
+Git has the ability to highlight conflicts that are caused from two developers editing the same file and same lines/part of the file. For example, if two developers edit the same file and lines, Git shows the conflicting lines which can then have to be resolved before merging.
+
+Git’s Backup and Recovery Mechanisms: 
+For starters, git is a distributed version control system meaning each developer has a copy of the repository on their local machine. If the remote repository is inaccessible, the local repository can be used to restore the remote repository. One can roll back to earlier commits using commands such as git reset and git checkout. 
+
+Difference between Git and GitHub:
+Git is a version control system that resides and runs locally on a device, it is responsible for managing changes, tracking history, creating and initializing branches, and also allowing merging. Whereas GitHub is a cloud-based platform for hosting Git repositories, it enables collaboration by providing a centralized repository. It also offers features such as pull requests and merging. 
 
 ## Part 2: Git Repository Setup 
 The steps listed below should help one create a local repository and push it's contents to a remote repository via Git.
@@ -96,6 +112,7 @@ touch README.md .gitignore index.html style.css script.js
 ##Captured Outputs 
 
 ###Environment 
+
 
 
 
