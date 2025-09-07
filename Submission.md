@@ -118,8 +118,12 @@ List of intial required files; README.md .gitignore index.html style.css script.
    git branch -d feature/add-about-page      # delete local branch
    git push origin --delete feature/add-about-page  # delete remote branch
    ```
+
+## Appendix: Full Code Listing 
+
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
