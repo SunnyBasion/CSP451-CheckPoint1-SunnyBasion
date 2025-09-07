@@ -129,11 +129,11 @@ Project Overview
 
 This repository contains the files for CSP451 Checkpoint 1. It demonstrates basic Git workflow, including version control, branching, and collaboration practices. The project includes a simple HTML website with personal information and styling. 
 Files
+- `.gitignore` – Specifies files/folders Git should ignore  
 - `index.html` – Main HTML page  
 - `style.css` – CSS for styling  
 - `script.js` – JavaScript functionality  
 - `about.html` – About page with personal information  
-- `.gitignore` – Specifies files/folders Git should ignore  
 - `README.md` – Project overview and setup instructions
 Setup Instructions
 1. Clone the repository:  
@@ -184,7 +184,7 @@ index.html
 </body>
 </html>
 ```
-
+style.css
 
 
 
@@ -192,6 +192,7 @@ index.html
      
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
