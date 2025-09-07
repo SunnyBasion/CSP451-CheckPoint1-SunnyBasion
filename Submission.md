@@ -185,13 +185,47 @@ index.html
 </html>
 ```
 style.css
+```
+/* style.css */
 
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Heading styling */
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+p {
+    color: #555;
+    font-size: 16px;
+}
+
+/* Optional: style links if you add any */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+```
 
 
 
      
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
