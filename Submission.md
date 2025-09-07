@@ -219,12 +219,20 @@ a:hover {
     text-decoration: underline;
 }
 ```
+script.js 
+```
+// script.js
 
-
+// Run this code after the page loads
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Page loaded successfully!");
+});
+```
 
      
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
