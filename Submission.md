@@ -261,9 +261,10 @@ about.html
 </body>
 </html>
 ```
-
+![[Alt text](Picture1.png)
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
