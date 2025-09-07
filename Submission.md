@@ -121,12 +121,12 @@ List of intial required files; README.md .gitignore index.html style.css script.
 
 ## Appendix: Full Code Listing 
 ### README.md 
-# CSP451 Checkpoint 1
+### CSP451 Checkpoint 1
 
-## Project Overview
+### Project Overview
 This repository contains the files for CSP451 Checkpoint 1. It demonstrates basic Git workflow, including version control, branching, and collaboration practices. The project includes a simple HTML website with personal information and styling. 
 
-## Files
+### Files
 - `index.html` – Main HTML page  
 - `style.css` – CSS for styling  
 - `script.js` – JavaScript functionality  
@@ -134,24 +134,25 @@ This repository contains the files for CSP451 Checkpoint 1. It demonstrates basi
 - `.gitignore` – Specifies files/folders Git should ignore  
 - `README.md` – Project overview and setup instructions  
 
-## Setup Instructions
+### Setup Instructions
 1. Clone the repository:  
    ```bash
    git clone git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    cd CSP451-Checkpoint1-SunnyBasion
 ****
-## Usage 
+### Usage 
 
    - One can use the index.html for their apache/httpd webserver 
    - Open about.html to view the about page with personal information 
 
-## Contributing 
+### Contributing 
    - Use feature branches and pull requests 
 
-## License
+### License
    - This project is for educational purposes. 
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
