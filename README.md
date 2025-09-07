@@ -54,7 +54,7 @@ touch README.md .gitignore index.html style.css script.js
     git commit -m "refactor: code changes that does not fix a bug or add a new feature"
     git add script.js
     git commit -m "feat: a new feature that is to be added"
-     ```
+    ```
     
 ## Part 3: GitHub Repository (Remote Repository)
 1. Creating a remote repository via GUI
@@ -122,6 +122,7 @@ touch README.md .gitignore index.html style.css script.js
 <img width="1919" height="1079" alt="Part 2 Step 1 Creating and initalizing the local git repository " src="https://github.com/user-attachments/assets/9c5bae75-5f96-40dc-b217-d37145d73244" />
 
 ###Environment 
+
 
 
 
