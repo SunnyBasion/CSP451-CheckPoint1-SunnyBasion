@@ -30,30 +30,30 @@ The steps listed below should help one create a local repository and push it's c
 
 1. Create a local directory and initalize it as a local repository with the branch name "main"
  ```bash
-mkdir csp451-checkpoint1
-cd csp451-checkpoint1
-git init -b main 
+   mkdir csp451-checkpoint1
+   cd csp451-checkpoint1
+   git init -b main 
  ```
 2. Create the required files via touch
 
 List of intial required files; README.md .gitignore index.html style.css script.js 
 
  ```bash
-touch README.md .gitignore index.html style.css script.js
+   touch README.md .gitignore index.html style.css script.js
  ```
 
 3. Add each required file to the local repository and commit (minimum 5 total commits)
 ```bash
-git add README.md
-git commit -m "docs: adding assignmnet brief reference"
-git add .gitignore
-git commit -m "chore: file specifiying what files or directories git should ignore in the repository"
-git add index.html
-git commit -m "style: basic html page"
-git add style.css
-git commit -m "refactor: code changes that does not fix a bug or add a new feature"
-git add script.js
-git commit -m "feat: a new feature that is to be added"
+   git add README.md
+   git commit -m "docs: adding assignmnet brief reference"
+   git add .gitignore
+   git commit -m "chore: file specifiying what files or directories git should ignore in the repository"
+   git add index.html
+   git commit -m "style: basic html page"
+   git add style.css
+   git commit -m "refactor: code changes that does not fix a bug or add a new feature"
+   git add script.js
+   git commit -m "feat: a new feature that is to be added"
 ```
     
 ## Part 3: GitHub Repository (Remote Repository)
@@ -118,8 +118,9 @@ git commit -m "feat: a new feature that is to be added"
    git branch -d feature/add-about-page      # delete local branch
    git push origin --delete feature/add-about-page  # delete remote branch
    ```
-###Reference:
+### Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
