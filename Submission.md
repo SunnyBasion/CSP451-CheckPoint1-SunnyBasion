@@ -141,7 +141,9 @@ Setup Instructions
    ```bash
    git clone git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    cd CSP451-Checkpoint1-SunnyBasion
+   ```
 ****
+
 Usage 
    - One can use the index.html for their apache/httpd webserver 
    - Open about.html to view the about page with personal information
@@ -263,6 +265,7 @@ about.html
 ```
 ## Reference:
 1. GitHub. “What Is Version Control?” GitHub, 29 July 2024, github.com/resources/articles/software-development/what-is-version-control.
+
 
 
 
