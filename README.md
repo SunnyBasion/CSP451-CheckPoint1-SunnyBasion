@@ -1,7 +1,7 @@
 # CSP451 Checkpoint 1
 
 ## Project Overview
-This repository contains the files for CSP451 Checkpoint 1. It demonstrates basic Git workflow, including version control, branching, and collaboration practices. The project includes a simple HTML website with personal information and styling.
+This repository contains the files for CSP451 Checkpoint 1. It demonstrates basic Git workflow, including version control, branching, and collaboration practices. The project includes a simple HTML website with personal information and styling. 
 
 ## Files
 - `index.html` – Main HTML page  
@@ -17,3 +17,5 @@ This repository contains the files for CSP451 Checkpoint 1. It demonstrates basi
    git clone git@github.com:SunnyBasion/CSP451-Checkpoint1-SunnyBasion.git
    cd CSP451-Checkpoint1-SunnyBasion
 ****
+## License
+This project is for education purposes. 
