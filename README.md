@@ -27,3 +27,4 @@ This repository contains the files for CSP451 Checkpoint 1. It demonstrates basi
 
 ## License
    - This project is for educational purposes. 
+/feature/user-authentication: Added this line. Sunny Basion
