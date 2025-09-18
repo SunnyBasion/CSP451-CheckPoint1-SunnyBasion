@@ -22,3 +22,6 @@ console.log("Find nope@example.com:", db.findUserByEmail("nope@example.com"));
 
 // List all
 console.log("All users:", db.allUsers());
+feature/database-connection
+
+ main
